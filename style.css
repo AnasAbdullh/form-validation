@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-color: #f9f9f9;
+  }
+  
+  div {
+    margin: 20px 0;
+  }
+  
+  .input-class {
+    margin-right: 10px;
+    padding: 5px;
+  }
+  
+  .button-class {
+    padding: 5px 10px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .button-class:hover {
+    background-color: #0056b3;
+  }
+  
